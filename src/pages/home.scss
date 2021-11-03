@@ -1,7 +1,7 @@
 @import "../shared/helper";
 
 .x {
-  width: 367 / 2420 * 100rem;
-  height: 315 / 2420 * 100rem;
+  width: px(367);
+  height: px(315);
   border: 1px solid red;
 }
